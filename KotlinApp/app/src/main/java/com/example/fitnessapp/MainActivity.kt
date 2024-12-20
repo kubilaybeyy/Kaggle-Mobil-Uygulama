@@ -43,8 +43,7 @@ class MainActivity : ComponentActivity() {
                 verticalAlignment = Alignment.CenterVertically) {
                 Text(text = "Hello")
                 Spacer(modifier = Modifier.height(  50.dp ))
-                Text(text = "AMK")
-                Text(text = "sikeym da")
+                
             }
         }
 
